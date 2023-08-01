@@ -1,3 +1,5 @@
+# Created by Michael R.
+
 print('Welcome to the impossible quiz?')
 answer=input('Are you ready to play? (yes/no) :')
 score=0
