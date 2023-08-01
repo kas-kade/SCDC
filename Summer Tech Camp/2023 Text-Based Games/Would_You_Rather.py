@@ -1,5 +1,6 @@
+# Created by Isaiah G.
 
-answer=input("lets play would you rather" )
+answer=input("Lets play would you rather!" )
 if (answer.lower() == "ok" or answer.lower() == "yes"):
     question1 = input("would you rather eat hamburgers or pizza? ")
     if (question1 == "pizza"):
