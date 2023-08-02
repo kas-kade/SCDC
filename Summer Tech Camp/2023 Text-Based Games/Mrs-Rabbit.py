@@ -1,3 +1,5 @@
+# Created by Sean S.
+
 def partTwo():
     print("As you head into the kitchen you see Mrs. Rabbit preparing a dish that makes you gag.")
 
