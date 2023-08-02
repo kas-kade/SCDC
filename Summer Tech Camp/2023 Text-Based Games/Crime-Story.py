@@ -1,3 +1,5 @@
+# Created by Bryan C.
+
 answer = input("You commited a crime, are you going to run away from the cops?")
 
 if (answer == "yes"):
