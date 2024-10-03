@@ -1,0 +1,24 @@
+p {
+    font-size: 50px;
+    color: rgb(167, 0, 196);
+}
+
+.Navbar {
+    background-color: #acc9da;
+    padding: 20;
+}
+
+.navbar .font {
+    font-size: 35px;
+    color: #045282;
+}
+
+.navbar .font {
+    font-size: 20px;
+    color: #9900aa
+}
+
+.navbar .font {
+    font-size: 20px;
+    color: #00b0a1
+}

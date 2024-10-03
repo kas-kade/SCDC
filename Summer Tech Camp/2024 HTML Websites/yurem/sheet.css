@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+p{font-size: 50;
+color: blue;}
+
+table{font-size: 50;
+    color: rgb(15, 110, 48);
+    border: rgb(240, 3, 3);
+}
+
+.navbar{background-color: #daacac;
+padding: 20px;}
+
+.navbar .fontbig {
+    font-size: 35px;
+    color: 045282;
+}
+
+.navbar .navfont {
+    font-size: x-large;
+    color: #327ba8;
+}

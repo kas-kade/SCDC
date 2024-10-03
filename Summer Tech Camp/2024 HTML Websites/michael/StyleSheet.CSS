@@ -1,0 +1,35 @@
+ *{
+    margin: 0;
+
+ }
+
+body{background-color: rgb(35, 29, 29);}
+
+ p{
+    font-size: 30px;
+    color: #900c3f
+ }
+
+ h1{
+    font-size: 35px;
+    color: #900c3f;
+ }
+
+ h2{
+    font-size: 30px;
+    color: #900c3f
+ }
+ .navbar{
+background-color: black ;
+padding: 20px;
+ }
+
+ .navbar .fontbig{
+font-size: 35px;
+color: white
+ }
+
+ .navbar .navfont{
+font-size: large;
+color: white;
+ }

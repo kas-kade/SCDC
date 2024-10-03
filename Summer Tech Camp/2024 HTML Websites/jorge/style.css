@@ -1,0 +1,26 @@
+p {
+    color: blue;
+}
+
+h1{
+    color: goldenrod;
+}
+
+.navbar{
+    background-color: blue;
+    padding: 20px;
+}
+
+.navbar .fontbig{
+    color: red;
+    font-size: 35px;    
+}
+
+.navbar .navfont{
+    color: yellow;
+    font-size: x-large;
+}
+
+.atitle{
+    color: #39A3D3;
+}

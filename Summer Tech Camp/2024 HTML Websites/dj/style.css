@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(75, 164, 151);
+}
+
+
+navbar {
+    background-color: #acc9da;
+    padding: 20px;
+
+}
+
+navbar .fontbig {
+    font-size: 35px;
+    color: #045282;
+}

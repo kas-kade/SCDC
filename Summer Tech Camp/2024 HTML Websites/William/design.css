@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    background-color: #3481CB;
+    padding: 20;
+}
+.navbar .fontbig{
+    font-size: 35px;
+    color:#000000
+}
+
+.navbar .navfont{
+    font-size: x-large;
+    color: #000000;
+}

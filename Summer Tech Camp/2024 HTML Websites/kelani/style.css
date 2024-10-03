@@ -1,0 +1,19 @@
+{p 
+    font-size: 50px;
+    color: rgb(77, 15, 67);
+}
+
+.navbar {
+    background-color: #acc9da;
+    padding: 20px;
+}
+
+.navbar .fontbig {
+    font-size: 35px;
+    color: #045282;
+}
+
+.navbar .navfont {
+    font-size: x-large;
+    color: #327ba8;
+}

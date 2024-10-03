@@ -1,0 +1,28 @@
+p{
+font-size: 50px;
+color: blue;
+}
+
+h3 {
+    color:coral;
+}
+li{
+font-size: 10px;
+color: blueviolet;
+}
+h2{
+font-size: 25px;
+color: crimson;
+}
+.navbar{
+background-color: #acc9da;
+padding: 20px;
+}
+.navbar .fontbig{
+font-size: 35px;
+color: #045282;
+}
+.navbar .navfont{
+font-size: x-large;
+color: #327ba8;
+}
